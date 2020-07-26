@@ -1,0 +1,2 @@
+# CustomActivityIndicator
+Gradient Loadintg Spinner
